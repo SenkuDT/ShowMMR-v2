@@ -1,0 +1,30 @@
+﻿# Logs
+*.log
+showmmr_log.txt
+showmmr_tool_out.txt
+chcp_diag.txt
+
+# Personal keys
+*.auth
+user_keys/
+!user_keys/.gitkeep
+user_keys_*.vcfg
+
+# Build artifacts
+ShowMMR_tool/obj/
+ShowMMR_tool/packages/
+*.vpk
+!source/**/*.vpk
+pak02_dir.vpk
+
+# Backups
+backup_*/
+backup/
+*.backup
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# Keep pak02_dir.vpk for distribution
+!pak02_dir.vpk
