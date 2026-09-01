@@ -1,4 +1,4 @@
-﻿# ShowMMR v2 вЂ” Dota 2 MMR Dashboard Mod
+﻿# ShowMMR v2 Dota 2 MMR Dashboard Mod
 
 by [t.me/xanoya](https://t.me/xanoya) | 2026-08-30
 
@@ -47,7 +47,6 @@ text
 │ └── bin\Release\net48\ShowMMR.exe
 ├── ShowMMR_en.bat # EN-инсталлятор (UTF-8)
 ├── ShowMMR_ru.bat # RU-инсталлятор (CP866)
-├── dasasd.bat # Главный EN-инсталлятор (копия ShowMMR_en.bat)
 ├── pak02_dir.vpk # Собранный мод (сборка 30429)
 └── user_keys\ # Автоматически создаётся: user_keys__slot3.vcfg
 ```
