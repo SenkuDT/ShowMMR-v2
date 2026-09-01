@@ -16,11 +16,9 @@ by [t.me/xanoya](https://t.me/xanoya) | 2026-08-30
 
 2. **В меню выберите:** `1 Установить`
    
-   Мод скопируется в:
+Мод скопируется в:
 
 Steam\steamapps\common\dota 2 beta\game\dota_mods\pak02_dir.vpk
-
-text
 
 3. **Уберите `-nojoy` из параметров запуска Dota 2**
 
